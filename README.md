@@ -6,4 +6,4 @@ This is a clone of the Google Search Engine. You can search anything you want, a
 
 Technology Used
 
-HTML, CSS, JavaScript, Reactjs, MaterialUI and Firebase..
+HTML, CSS, JavaScript, Reactjs, MaterialUI and Firebase.
