@@ -1,4 +1,4 @@
-Google-Clone
+Google-Clone.
 
 About the project
 
