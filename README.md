@@ -1,4 +1,4 @@
-Google-Clone
+Quick-Search
 
 About the project
 
