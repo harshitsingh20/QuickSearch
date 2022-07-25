@@ -6,4 +6,4 @@ This is a quick Search Engine. You can search anything you want, and it's gives 
 
 Technology Used
 
-HTML, CSS, JavaScript, Reactjs, MaterialUI and Firebase.
+HTML, CSS, JavaScript, Reactjs, MaterialUI and Firebase..
